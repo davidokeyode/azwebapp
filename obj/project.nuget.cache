@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "82P+q3N6lhhNX0jCU5FiGUSubu900sRhWWww4HZWg66gHz38xH2skZSV184jlbaiyz+4GHgZpOH8MjiZlD2ivw==",
+  "dgSpecHash": "aD1LjiSxeT8cZdcXfLDn7ckWWT9BmX9YeT560SKZVPOWOXMxdIgVfv/9DyDWIdjWZ24HyYEuAHVcNlMy4TxxiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asegu\\Downloads\\GitHub-Repos\\azwebapp\\azwebapp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/azwebapp/azwebapp.csproj",
+  "expectedPackageFiles": [
+    "/var/nuget/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/var/nuget/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/var/nuget/microsoft.netcore.app.host.linux-x64/3.1.23/microsoft.netcore.app.host.linux-x64.3.1.23.nupkg.sha512"
+  ],
   "logs": []
 }
